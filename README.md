@@ -4,7 +4,7 @@
 
 ## 👋 SOBRE
 
-Meu nome é Lucas Zunino ~~Zuzu pros chegados haha~~ (Ele/Dele), apaixonado por jogos digitais e me descobrindo no mundo do desenvolvimento web. Comecei na programação em Setembro/22 com a Trybe e, desde então, tenho explorado esse universo de perto, sempre atrás de novas tecnologias e projetos inovadores para me manter atualizado as tendências de mercado.
+Meu nome é Lucas Zunino ~~Zuzu pros chegados haha~~ (Ele/Dele), apaixonado por musica, jogos digitais e me descobrindo no mundo do desenvolvimento web. Comecei na programação em Setembro/22 com a Trybe e, desde então, tenho explorado esse universo de perto, sempre atrás de novas tecnologias e projetos inovadores para me manter atualizado as tendências de mercado.
 
 ## ⚡ HABILIDADES
 
